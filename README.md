@@ -1,5 +1,5 @@
-Tweet Detector (NLP Project)
-📌 Overview
+Tweet Detector 
+
 This project is used to analyzes tweets and predicts whether a tweet is related to a disaster or not.
 
 It uses a trained model to classify text input and is deployed using Streamlit.
