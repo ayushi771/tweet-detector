@@ -9,10 +9,14 @@ Clean and preprocess tweet text
 Predict disaster vs non-disaster tweets
 Simple web interface using Streamlit
 Fast and lightweight model inference
-🛠️ Tech Stack
+
+ Tech Stack
 Pandas & NumPy
+
 Scikit-learn / PyTorch (depending on your model)
+
 NLP techniques (tokenization, cleaning)
+
 colab
 
 📊 Example
