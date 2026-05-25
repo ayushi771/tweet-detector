@@ -11,6 +11,7 @@ Simple web interface using Streamlit
 Fast and lightweight model inference
 
  Tech Stack
+ 
 Pandas & NumPy
 
 Scikit-learn / PyTorch (depending on your model)
